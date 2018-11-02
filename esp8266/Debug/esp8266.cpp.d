@@ -30,5 +30,40 @@ C:\Users\r_tup\AppData\Local\Temp\VMBuilds\esp8266\esp8266_huzzah\Debug\esp8266.
  C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/md5.h \
  C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/debug.h \
  C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\variants\adafruit/pins_arduino.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/WiFiUdp.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/Udp.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/Stream.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/IPAddress.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/WString.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/Printable.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/include/slist.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/WiFiServer.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/include/wl_definitions.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/Server.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/WiFiClientSecure.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/WiFiClient.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/Print.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/Client.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\cores\esp8266/IPAddress.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/include/slist.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/include/ssl.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/WiFiClient.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiType.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0/tools/sdk/include/queue.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiSTA.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiType.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiGeneric.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiScan.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiMulti.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFi.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiSTA.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiAP.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiScan.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/WiFiServer.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/WiFiClientSecure.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiGeneric.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFiAP.h \
+ C:\Users\r_tup\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.1.0\libraries\ESP8266WiFi\src/ESP8266WiFi.h \
+ C:\Users\r_tup\Documents\Arduino\libraries\PubSubClient\src/PubSubClient.h \
  C:\Users\r_tup\Documents\Arduino\libraries\DHT_sensor_library/DHT.h \
  c:\program\ files\ (x86)\microsoft\ visual\ studio\2017\community\common7\ide\extensions\ktpce3c3.a4z\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h
