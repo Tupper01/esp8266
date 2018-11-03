@@ -23,13 +23,35 @@
 
 #define DHTPIN 4     // what digital pin the DHT22 is conected to
 #define DHTTYPE DHT22   // there are multiple kinds of DHT sensors
-
+/////////////////////////////////////////////////////////////////////////////////////////////
  // Change the credentials below, so your ESP8266 connects to your router
 const char* ssid = "Mune2006";
 const char* password = "Milmik0912";
 
 // Change the variable to your Raspberry Pi IP address, so it connects to your MQTT broker
 const char* mqtt_server = "192.168.1.56";
+
+// Initializes the espClient
+WiFiClient espClient;
+PubSubClient client(espClient);
+
+// Don't change the function below. This functions connects your ESP8266 to your router
+void setup_wifi() {
+	delay(10);
+	// We start by connecting to a WiFi network
+	Serial.println();
+	Serial.print("Connecting to ");
+	Serial.println(ssid);
+	WiFi.begin(ssid, password);
+	while (WiFi.status() != WL_CONNECTED) {
+		delay(500);
+		Serial.print(".");
+	}
+	Serial.println("");
+	Serial.print("WiFi connected - ESP IP address: ");
+	Serial.println(WiFi.localIP());
+}
+/////////////////////////////////////////////////////////////////////////////////////////////
 
 DHT dht(DHTPIN, DHTTYPE);
 
